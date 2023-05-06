@@ -17,6 +17,6 @@ make bonus
 
 ## 📚 VERSIONS
 
---- > bits version: [**read_BUFFER_SIZE_bytes**](https://github.com/jblackiex/42_get_next_line/tree/main/read_BUFFER_SIZE_bytes).
+--- > [**bits version**](https://github.com/jblackiex/42_minitalk/tree/main/bits_version)
 
---- > ASCII version (no unicode support): [**read_1_byte**](https://github.com/jblackiex/42_get_next_line/tree/main/read_1_byte) version.
+--- > no unicode support -> [**ASCII version**](https://github.com/jblackiex/42_minitalk/tree/main/ascii_version)
