@@ -7,7 +7,7 @@ Produce `server` & `client` executables
 
 Compile with:
 ```shell
-make all
+make
 ```
 
 👇🏼 UNICODE characters SUPPORT
